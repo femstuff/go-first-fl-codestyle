@@ -1,3 +1,5 @@
-module github.com/Yandex-Practicum/go-first-fl-codestyle
+module github.com/femstuff/go-first-fl-codestyle
 
-go 1.20
+go 1.22.1
+
+require github.com/go-chi/chi v1.5.5 // indirect
